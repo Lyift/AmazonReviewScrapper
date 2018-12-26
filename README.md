@@ -52,9 +52,4 @@ Url when copied directly:
 >https://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/product-reviews/B00NQGP42Y/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
 
 After adding **https://www.amazon.cn/Apple-AirPods-无线蓝牙-入耳式耳机-MMEF2CH-A-白色/product-reviews/B01LZ3VPH4/ref=dpx_acr_txt?showViewpoints=1&pageNumber=1**:
->https://www.amazon.com/Apple-iPhone-Factory-Unlocked-Phone/product-reviews/B00NQGP42Y/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews&pageNumber=1
 
-China=
-https://www.amazon.cn/Apple-AirPods-%E6%97%A0%E7%BA%BF%E8%93%9D%E7%89%99-%E5%85%A5%E8%80%B3%E5%BC%8F%E8%80%B3%E6%9C%BA-MMEF2CH-A-%E7%99%BD%E8%89%B2/product-reviews/B01LZ3VPH4/ref=dpx_acr_txt?showViewpoints=1&pageNumber=1
-Spain = 
-https://www.amazon.es/Apple-AirPods-Auriculares-inalámbricos-Bluetooth/product-reviews/B01MCW7EOW/ref=dpx_acr_txt?showViewpoints=1&pageNumber=1
